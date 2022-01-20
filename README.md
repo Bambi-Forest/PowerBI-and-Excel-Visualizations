@@ -5,7 +5,7 @@ PowerBI and Excel Visualizations
 Hello, This is my Data Analytics journey for the Maven Analytics Business Intelligence Analyst Track and Personal Projects completed for Clients.
 - All Projects will be stored here :)
 
-[Project 1] Student Services Employer and Internship 2020-2022 fiscal year Insights 
+[PowerPI: Project 1] Student Services Employer and Internship 2020-2022 fiscal year Insights 
 
 [Clink Here to view Student Services Employer and Internship 2020-2022 fiscal year Insights Project](https://github.com/Bambi-Forest/PowerBI-and-Excel-Visualizations/blob/main/StudentServicesInsights.pdf)
 
