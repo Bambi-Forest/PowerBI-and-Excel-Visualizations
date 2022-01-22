@@ -2,23 +2,23 @@
 PowerBI and Excel Visualizations
 
 
-Hello, This is my Data Analytics journey for the Maven Analytics Business Intelligence Analyst Track and Personal Projects completed for Clients.
-- All Projects will be stored here :)
+Hello, This is my Data Analytics journey to showcase Personal Projects completed for Clients and additional projects completed from Maven Analytics Business Intelligence Analyst Track.
+
 
 [PowerPI: Project 1] Student Services Employer and Internship 2020-2022 fiscal year Insights 
 
 [Clink Here to view Student Services Employer and Internship 2020-2022 fiscal year Insights Project](https://github.com/Bambi-Forest/PowerBI-and-Excel-Visualizations/blob/main/StudentServicesInsights.pdf)
 
-[Dataset Used](Due to Confidentiality, unable to provide dataset )
+[Dataset Used](Due to Confidentiality, unable to provide dataset and Names are replaced. )
 
 This project is where I:
 
 - The Situation: 
-•  My client gave me several types of data to use in order to help them see impactful data about the Student Services Department.
+ My client gave me several types of data to use in order to help them see impactful data about the Student Services Department.
 
         
 Results: 
-- Client was able to measure several KPI's over a Three year time span between 2020 - 2022 fiscal year of the Following:
+Client was able to measure several KPI's over a Three year time span between 2020 - 2022 fiscal year of the Following:
 - Total Number of students seen by counselor per quarter and Year.
 - Most popular Major that the counselo'rs seen as a whole.
 - Total Number of Resume reviews per year.
