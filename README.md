@@ -9,7 +9,7 @@ Hello, This is my Data Analytics journey to showcase Personal Projects completed
 
 [Clink Here to view Student Services Employer and Internship 2020-2022 fiscal year Insights Project](https://github.com/Bambi-Forest/PowerBI-and-Excel-Visualizations/blob/main/StudentServicesInsights.pdf)
 
-[Dataset Used](Due to Confidentiality, unable to provide dataset and Names are replaced. )
+[Dataset Used](Due to Confidentiality, unable to provide dataset and Counselor Names are replaced within my Visualization. )
 
 This project is where I:
 
