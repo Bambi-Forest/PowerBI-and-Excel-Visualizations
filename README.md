@@ -18,16 +18,17 @@ This project is where I:
 
         
 Results: 
-- Client was able to measure how much over a Three year time Period between 2020 - 2022 fiscal year of the Following:
-- Number of students seen by counselor per quarter and Year. Also be able to see which Major was the most popular to be served
-- Number of Resume reviews per year.
-- Students served per Workshop avaiability. 
-- Employers Location within Lousiana that provide internship opportunities.
-- Employer average, minimum and maximum Intern pay.
-- Course Credit students received from Interning at particular companies.
+- Client was able to measure several KPI's over a Three year time span between 2020 - 2022 fiscal year of the Following:
+- Total Number of students seen by counselor per quarter and Year.
+- Most popular Major that the counselo'rs seen as a whole.
+- Total Number of Resume reviews per year.
+- Total Students attending a particular Workshop hosted by a single counselor. 
+- Geograhical chart of most populated areas that employers are located.
+- The average, minimum and maximum Intern pay per employer.
+- Amount of Course Credits students received from interning at particular companies.
 - Internship Paid and Unpaid percentage.
-- Different type of Employment offers per year.
-- Total interns with internships per year and semester.
+- Different type of Employment offers given to students per year.
+- Total interns attending internships per year and semester.
 - Total number of Companies offering internship opportunities. 
 - Total Number of Internship Opportunities that were avaibale per semester and year.
 
